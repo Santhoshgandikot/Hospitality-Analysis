@@ -3,7 +3,9 @@ Unraveling Hotel Occupancy Trends and Revenue Generation.
 ## Overview
 
 This repository contains a comprehensive analysis of hotel performance metrics, providing insights into revenue generation, occupancy rates, cancellation rates, and booking trends. The analysis encompasses various dimensions such as total revenue, occupancy, cancellation rate, total bookings, utilization of capacity, trend analysis, revenue by state and hotel, class-wise revenue, and more.
+## Tools Used
 
+🔧 Microsoft Excel.
 ## Key Metrics and Insights
 
 ### Total Revenue
